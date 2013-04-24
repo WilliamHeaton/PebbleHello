@@ -1,0 +1,17 @@
+
+{"friendlyVersion": "HELLO",
+ "versionDefName": "HELLO_IMAGE_RESOURCES",
+ "media": [
+	    {
+            "type": "png",
+            "defName": "IMAGE_MENU_ICON",
+            "file": "images/menu_icon_hello.png"
+	    },
+	    
+	    {
+            "type": "png",
+            "defName": "IMAGE_HELLO",
+            "file": "images/hello.png"
+	    }
+	  ]
+}
